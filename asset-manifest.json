@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/my-portfolio_v1/static/css/main.dce5c223.css",
-    "main.js": "/my-portfolio_v1/static/js/main.1b663b7c.js",
+    "main.js": "/my-portfolio_v1/static/js/main.f4c608c4.js",
     "static/js/787.4b24f717.chunk.js": "/my-portfolio_v1/static/js/787.4b24f717.chunk.js",
     "static/media/maheshhasbi.jpg": "/my-portfolio_v1/static/media/maheshhasbi.3717c0f6d5e14f52155b.jpg",
-    "static/media/UNCC_logo.png": "/my-portfolio_v1/static/media/UNCC_logo.eaac33569f72f0067393.png",
-    "static/media/noodleai_logo2.png": "/my-portfolio_v1/static/media/noodleai_logo2.95d34b61884911593af8.png",
-    "static/media/noodleai_logo.png": "/my-portfolio_v1/static/media/noodleai_logo.4fed05f16585216be154.png",
-    "static/media/opentext_logo.png": "/my-portfolio_v1/static/media/opentext_logo.575aae67ca5d237472c2.png",
+    "static/media/UNCC_logo.jpg": "/my-portfolio_v1/static/media/UNCC_logo.3e6a9daa80ff5c17b61c.jpg",
+    "static/media/noodleai_logo.jpg": "/my-portfolio_v1/static/media/noodleai_logo.af1a1c27465a70e4519d.jpg",
+    "static/media/noodleai_logo2.jpg": "/my-portfolio_v1/static/media/noodleai_logo2.7aa7b7cffd279d0d6b21.jpg",
+    "static/media/opentext_logo.jpg": "/my-portfolio_v1/static/media/opentext_logo.6b67b764d8719c0bcb23.jpg",
+    "static/media/gradient_logo.jpg": "/my-portfolio_v1/static/media/gradient_logo.be4d1e56032b71ff7f65.jpg",
     "index.html": "/my-portfolio_v1/index.html",
     "main.dce5c223.css.map": "/my-portfolio_v1/static/css/main.dce5c223.css.map",
-    "main.1b663b7c.js.map": "/my-portfolio_v1/static/js/main.1b663b7c.js.map",
+    "main.f4c608c4.js.map": "/my-portfolio_v1/static/js/main.f4c608c4.js.map",
     "787.4b24f717.chunk.js.map": "/my-portfolio_v1/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dce5c223.css",
-    "static/js/main.1b663b7c.js"
+    "static/js/main.f4c608c4.js"
   ]
 }
