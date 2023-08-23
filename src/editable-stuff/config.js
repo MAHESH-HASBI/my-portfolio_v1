@@ -6,10 +6,10 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
+  firstName: "Mahesh",
   middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  lastName: "Hasbi",
+  message: " Committed to shaping the future through technology. ",
   icons: [
     {
       image: "fa-github",
@@ -51,7 +51,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/maheshhasbi.HEIC"),
+  imageLink: require("../editable-stuff/maheshhasbi.jpg"),
   imageSize: 375,
   message:
     "My name is Mahesh Hasbi. I’m a graduate of 2019 from BV Raju Institute of Technology at Hyderabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
@@ -79,12 +79,12 @@ const leadership = {
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
     { 
-      img: require("../editable-stuff/hashirshoaeb.png"), 
+      img: require("../editable-stuff/maheshhasbi.jpg"), 
       label: "First slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
-      img: require("../editable-stuff/hashirshoaeb.png"), 
+      img: require("../editable-stuff/maheshhasbi.jpg"), 
       label: "Second slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
@@ -101,13 +101,45 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
+    { name: "Java", value: 80 },
     { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "C/C++", value: 80 },
+    { name: "JavaScript", value: 75 },
+    { name: "React Native", value: 60 },
+    { name: "HTML/CSS", value: 50 },
+    { name: "C#", value: 60 },
+    { name: "SQL", value: 75 },
+    { name: "MySQL", value: 90 },
+    { name: "Git", value: 90 },
+    { name: "JIRA", value: 85 },
+    { name: "Jupyter", value: 90 },
+    { name: "Numpy", value: 90 },
+    { name: "Pandas", value: 90 },
+    { name: "CI/CD", value: 90 },
+    { name: "HDFS", value: 90 },
+    { name: "S3", value: 90 },
+    { name: "AWS", value: 90 },
+    { name: "SDLC", value: 90 },
+    { name: "REST API", value: 90 },
+    { name: "Kubernetes", value: 90 },
+    { name: "Helm", value: 90 },
+    { name: "Docker", value: 90 },
+    { name: "Unix/Linux", value: 90 },
+    { name: "XML", value: 90 },
+    { name: "Airflow", value: 90 },
+    { name: "MLFlow", value: 90 },
+    { name: "Kubeflow", value: 90 },
+    { name: "Dagster", value: 90 },
+    { name: "Jenkins", value: 90 },
+    { name: "Tableau", value: 90 },
+    { name: "Data Analysis", value: 90 },
+    { name: "Machine Learning", value: 90 },
+    { name: "Data Visualization", value: 90 },
+    { name: "Trouble Shooting", value: 90 },
+    { name: "Microsoft Excel", value: 90 },
+    { name: "JSON", value: 90 },
+    { name: "Groovy", value: 90 },
+    { name: "Extract, Transform, Load", value: 90 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
@@ -118,6 +150,13 @@ const skills = {
     { name: "Empathy", value: 90 },
     { name: "Organization", value: 70 },
     { name: "Creativity", value: 90 },
+    { name: "Leadership", value: 90 },
+    { name: "Time Management", value: 90 },
+    { name: "Critical Thinking", value: 90 },
+    { name: "Analytical Skills", value: 90 },
+    { name: "Mentoring", value: 90 },
+    { name: "Public Speaking", value: 90 },
+    { name: "Teamwork", value: 90 }
   ],
 };
 
@@ -126,8 +165,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking for full-time Software Engineering, Data Engineering and ML Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "mahe113vsp@gmail.com",
 };
 
 const experiences = {
