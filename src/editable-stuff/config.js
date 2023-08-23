@@ -193,14 +193,31 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Teaching Assistant',
+      companylogo: require('../assets/img/UNCC_logo.png'),
+      date: 'August 2022 – Present',
+      description: ' As an IA for the Undergrad Mobile Robotics course, provided comprehensive support to students, including assignment help, grading, and administrative duties. Mentored 43 students, graded over 500 papers, and held 60+ office hours. '
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Software Engineeering Lead, Intern',
+      companylogo: require('../assets/img/gradient_logo.png'),
+      date: 'May 2023 – August 2023',
+      description: "➤ Led, mentored, and managed a team of 6 software engineering interns, fostering their growth through guidance and professional development opportunities. {'\n'}➤ Orchestrated the development of a cross-platform application (iOS & Android) from scratch using React Native, a JavaScript framework. Integrated mobile UI components with backend functionality using Firebase SDK and Firebase Cloud Firestore for storage.{'\n'}➤ Crafted and executed the app's development roadmap, efficiently distributing tasks among team members. Conducted code quality reviews and fostered a collaborative environment for streamlined progression.{'\n'}➤ Provided technical expertise and guidance to address intricate challenges, empowering the team to make informed decisions.{'\n'}➤ Ensured adherence to coding standards and best practices through meticulous code, architecture, and design reviews.{'\n'}➤ Proactively managed team budget, encompassing resource allocation and tooling costs, including essential platforms like GitHub, Firebase, and JIRA.{'\n'}➤ Collaborated seamlessly with cross-functional teams, gaining a comprehensive understanding of project requirements, scopes, and timelines."
+    },
+    {
+      role: 'Software & Data Engineering',
+      companylogo: require('../assets/img/noodleai_logo2.png'),
+      date: 'August 2020 – July 2022',
+    },
+    {
+      role: 'Software/ML/DevOps Engineering',
+      companylogo: require('../assets/img/noodleai_logo.png'),
+      date: 'October 2019 – July 2020',
+    },
+    {
+      role: 'Software Engineering Intern',// Here Add Company Name
+      companylogo: require('../assets/img/opentext_logo.png'),
+      date: 'January 2019 – July 2019',
     },
   ]
 }
