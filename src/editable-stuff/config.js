@@ -100,63 +100,40 @@ const leadership = {
   images: [
     { 
       img: require("../editable-stuff/appreciation_images/jagat_appreciation.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
       img: require("../editable-stuff/appreciation_images/jagat_appreciation_r1.png"), 
       label: "Second slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
       img: require("../editable-stuff/appreciation_images/srihari_appreciation.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
       img: require("../editable-stuff/appreciation_images/srihari_appreciation_r1.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
       img: require("../editable-stuff/appreciation_images/farewell_anurag_avinash.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
       img: require("../editable-stuff/appreciation_images/farewell2.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
       img: require("../editable-stuff/appreciation_images/farewell3.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
       img: require("../editable-stuff/appreciation_images/christian_appreciation.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
       img: require("../editable-stuff/appreciation_images/gradient_linkedin_appreciation.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
       img: require("../editable-stuff/appreciation_images/gradient_linkedin_appreciation2.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
       img: require("../editable-stuff/appreciation_images/gradient_linkedin_appreciation3.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
       img: require("../editable-stuff/appreciation_images/gradient_meet.png"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
   ],
   imageSize: {
