@@ -94,18 +94,68 @@ const repos = {
 // Leadership SECTION
 const leadership = {
   show: true,
-  heading: "Leadership",
+  heading: "Leadership & Featured",
   message:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
     { 
-      img: require("../editable-stuff/maheshhasbi.jpg"), 
+      img: require("src/editable-stuff/appreciation_images/jagat_appreciation.png"), 
       label: "First slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
-      img: require("../editable-stuff/maheshhasbi.jpg"), 
+      img: require("src/editable-stuff/appreciation_images/jagat_appreciation_r1.png"), 
       label: "Second slide label", 
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    },
+    { 
+      img: require("src/editable-stuff/appreciation_images/srihari_appreciation.png"), 
+      label: "First slide label", 
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    },
+    { 
+      img: require("src/editable-stuff/appreciation_images/srihari_appreciation_r1.png"), 
+      label: "First slide label", 
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    },
+    { 
+      img: require("src/editable-stuff/appreciation_images/farewell_anurag_avinash.png"), 
+      label: "First slide label", 
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    },
+    { 
+      img: require("src/editable-stuff/appreciation_images/farewell2.png"), 
+      label: "First slide label", 
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    },
+    { 
+      img: require("src/editable-stuff/appreciation_images/farewell3.png"), 
+      label: "First slide label", 
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    },
+    { 
+      img: require("src/editable-stuff/appreciation_images/christian_appreciation.png"), 
+      label: "First slide label", 
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    },
+    { 
+      img: require("src/editable-stuff/appreciation_images/gradient_linkedin_appreciation.png"), 
+      label: "First slide label", 
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    },
+    { 
+      img: require("src/editable-stuff/appreciation_images/gradient_linkedin_appreciation2.png"), 
+      label: "First slide label", 
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    },
+    { 
+      img: require("src/editable-stuff/appreciation_images/gradient_linkedin_appreciation3.png"), 
+      label: "First slide label", 
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    },
+    { 
+      img: require("src/editable-stuff/appreciation_images/gradient_meet.png"), 
+      label: "First slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
   ],
@@ -114,6 +164,18 @@ const leadership = {
     height:"450"
   }
 };
+
+
+
+
+
+
+
+
+
+
+
+
 
 // SKILLS SECTION
 const skills = {
@@ -208,19 +270,19 @@ const experiences = {
       role: 'Software & Data Engineering',
       companylogo: require('../assets/img/noodleai_logo2.jpg'),
       date: 'August 2020 – July 2022',
-      description: "• Proficient in building Kubeflow data processing pipelines, alert pipelines for production failures, and other pipelines to facilitate data processing.\n• Skilled in writing data migration scripts and workflow automation scripts to automate data management tasks and increase efficiency.\n• Experienced in owning and resolving production pipeline failures and ensuring smooth pipeline operations.\n• Capable of owning data processing pipelines, ensuring accurate processing of raw data, and delivering the processed data to data scientists for modeling.\n• Versatile in working across multiple departments including Machine Learning Engineering, Software Engineering, and Data Engineering with a strong understanding of DevOps.\n• Conducted extensive research to make all data processing pipelines generic, implementing and refactoring codes while also exploring new features required by data science pipelines. \n• Improved project efficiency by refactoring code to increase reusability, reduce complexity, and enhance code generality.\n• Contributed to the development and maintenance of multiple projects by implementing new functionalities, developing APIs, and addressing multiple bugs. ",
+      description: "➤ Proficient in building Kubeflow data processing pipelines, alert pipelines for production failures, and other pipelines to facilitate data processing.\n➤ Skilled in writing data migration scripts and workflow automation scripts to automate data management tasks and increase efficiency.\n➤ Experienced in owning and resolving production pipeline failures and ensuring smooth pipeline operations.\n➤ Capable of owning data processing pipelines, ensuring accurate processing of raw data, and delivering the processed data to data scientists for modeling.\n➤ Versatile in working across multiple departments including Machine Learning Engineering, Software Engineering, and Data Engineering with a strong understanding of DevOps.\n➤ Conducted extensive research to make all data processing pipelines generic, implementing and refactoring codes while also exploring new features required by data science pipelines. \n➤ Improved project efficiency by refactoring code to increase reusability, reduce complexity, and enhance code generality.\n➤ Contributed to the development and maintenance of multiple projects by implementing new functionalities, developing APIs, and addressing multiple bugs. ",
     },
     {
       role: 'Software/ML/DevOps Engineering Intern',
       companylogo: require('../assets/img/noodleai_logo.jpg'),
       date: 'October 2019 – July 2020',
-      description: "• During my tenure as a Machine Learning Engineer Intern, I played a key role in integrating and implementing a reliable ML model versioning framework, leveraging MLFlow. The framework provided a seamless approach to visualizing model metrics, optimizing model versioning, streamlining experiment tracking, and enhancing the management and deployment of models.\n• Demonstrated proficiency in Software Development Kit (SDK) API development, Jenkins CI/CD pipeline construction, and end-to-end unit testing during my tenure as a software engineering intern.\n• Applied best practices in software engineering by refactoring existing code to enhance reusability, minimize complexity, and increase code generality.\n• Innovatively incorporated third-party packages into our project by experimenting with their features and functionalities to optimize project outcomes.",
+      description: "➤ During my tenure as a Machine Learning Engineer Intern, I played a key role in integrating and implementing a reliable ML model versioning framework, leveraging MLFlow. The framework provided a seamless approach to visualizing model metrics, optimizing model versioning, streamlining experiment tracking, and enhancing the management and deployment of models.\n➤ Demonstrated proficiency in Software Development Kit (SDK) API development, Jenkins CI/CD pipeline construction, and end-to-end unit testing during my tenure as a software engineering intern.\n➤ Applied best practices in software engineering by refactoring existing code to enhance reusability, minimize complexity, and increase code generality.\n➤ Innovatively incorporated third-party packages into our project by experimenting with their features and functionalities to optimize project outcomes.",
     },
     {
       role: 'Software Engineering Intern',// Here Add Company Name
       companylogo: require('../assets/img/opentext_logo.jpg'),
       date: 'January 2019 – July 2019',
-      description: "• Experienced in OpenText's AppWorks platform as a member of the Business Process Management team, with a specialization in low-code application development.\n• Skilled in designing workflows, specifically Entry BPMs and Exit BPMs, to optimize data processing within applications, while also overseeing their entire life cycle.\n• Proficient in client management, having worked with several prominent organizations such as Tesco, VMWare, Visteon, and Comcast.• Experienced in OpenText's AppWorks platform as a member of the Business Process Management team, with a specialization in low-code application development. • Skilled in designing workflows, specifically Entry BPMs and Exit BPMs, to optimize data processing within applications, while also overseeing their entire life cycle. • Proficient in client management, having worked with several prominent organizations such as Tesco, VMWare, Visteon, and Comcast.",
+      description: "➤ Experienced in OpenText's AppWorks platform as a member of the Business Process Management team, with a specialization in low-code application development.\n➤ Skilled in designing workflows, specifically Entry BPMs and Exit BPMs, to optimize data processing within applications, while also overseeing their entire life cycle.\n➤ Proficient in client management, having worked with several prominent organizations such as Tesco, VMWare, Visteon, and Comcast.➤ Experienced in OpenText's AppWorks platform as a member of the Business Process Management team, with a specialization in low-code application development. ➤ Skilled in designing workflows, specifically Entry BPMs and Exit BPMs, to optimize data processing within applications, while also overseeing their entire life cycle. ➤ Proficient in client management, having worked with several prominent organizations such as Tesco, VMWare, Visteon, and Comcast.",
     },
   ]
 }
