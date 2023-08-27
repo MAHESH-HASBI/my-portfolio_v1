@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/my-portfolio_v1/static/css/main.dce5c223.css",
-    "main.js": "/my-portfolio_v1/static/js/main.2cc4ec45.js",
+    "main.js": "/my-portfolio_v1/static/js/main.96c05ddb.js",
     "static/js/787.4b24f717.chunk.js": "/my-portfolio_v1/static/js/787.4b24f717.chunk.js",
     "static/media/gradient_meet.png": "/my-portfolio_v1/static/media/gradient_meet.f77c406eaa095b878917.png",
+    "static/media/gradient_linkedin_appreciation2.png": "/my-portfolio_v1/static/media/gradient_linkedin_appreciation2.3a6dd78c4442395e8835.png",
     "static/media/farewell2.png": "/my-portfolio_v1/static/media/farewell2.f23d9c07f30a141a5b44.png",
-    "static/media/gradient_linkedin_appreciation2.png": "/my-portfolio_v1/static/media/gradient_linkedin_appreciation2.03064d0fb61733ffdcaf.png",
-    "static/media/farewell3.png": "/my-portfolio_v1/static/media/farewell3.bb1c582632665f2e9273.png",
-    "static/media/farewell_anurag_avinash.png": "/my-portfolio_v1/static/media/farewell_anurag_avinash.02c65350da4d5fb56f79.png",
+    "static/media/farewell_anurag_avinash.png": "/my-portfolio_v1/static/media/farewell_anurag_avinash.37eb7e04a9e76bc185c2.png",
     "static/media/maheshhasbi.jpg": "/my-portfolio_v1/static/media/maheshhasbi.3717c0f6d5e14f52155b.jpg",
-    "static/media/christian_appreciation.png": "/my-portfolio_v1/static/media/christian_appreciation.beee9da4335eaad3c173.png",
-    "static/media/gradient_linkedin_appreciation.png": "/my-portfolio_v1/static/media/gradient_linkedin_appreciation.99fb155f0106d1d38096.png",
-    "static/media/srihari_appreciation.png": "/my-portfolio_v1/static/media/srihari_appreciation.c69a63e50e89562e7738.png",
-    "static/media/srihari_appreciation_r1.png": "/my-portfolio_v1/static/media/srihari_appreciation_r1.c5a1812df83c69a50039.png",
-    "static/media/gradient_linkedin_appreciation3.png": "/my-portfolio_v1/static/media/gradient_linkedin_appreciation3.b61420261eb54d4f920d.png",
-    "static/media/jagat_appreciation_r1.png": "/my-portfolio_v1/static/media/jagat_appreciation_r1.4b460d30119ee61cd8e0.png",
-    "static/media/jagat_appreciation.png": "/my-portfolio_v1/static/media/jagat_appreciation.852771ee8f8a79258186.png",
+    "static/media/farewell3.png": "/my-portfolio_v1/static/media/farewell3.c62f8ac24a6f2ed30930.png",
+    "static/media/srihari_appreciation.png": "/my-portfolio_v1/static/media/srihari_appreciation.0b26021d7e4948cdfa4f.png",
+    "static/media/gradient_linkedin_appreciation.png": "/my-portfolio_v1/static/media/gradient_linkedin_appreciation.eb1ac23057035c4819dc.png",
+    "static/media/christian_appreciation.png": "/my-portfolio_v1/static/media/christian_appreciation.d7df82ceb1cf3e0674cc.png",
+    "static/media/srihari_appreciation_r1.png": "/my-portfolio_v1/static/media/srihari_appreciation_r1.59c2357bc2ae53a26a7e.png",
+    "static/media/jagat_appreciation.png": "/my-portfolio_v1/static/media/jagat_appreciation.756d6351baec34c9beed.png",
+    "static/media/jagat_appreciation_r1.png": "/my-portfolio_v1/static/media/jagat_appreciation_r1.3d9508d499098484f1df.png",
+    "static/media/gradient_linkedin_appreciation3.png": "/my-portfolio_v1/static/media/gradient_linkedin_appreciation3.16422207d5312b8d9652.png",
     "static/media/UNCC_logo.jpg": "/my-portfolio_v1/static/media/UNCC_logo.3e6a9daa80ff5c17b61c.jpg",
     "static/media/noodleai_logo.jpg": "/my-portfolio_v1/static/media/noodleai_logo.af1a1c27465a70e4519d.jpg",
     "static/media/noodleai_logo2.jpg": "/my-portfolio_v1/static/media/noodleai_logo2.7aa7b7cffd279d0d6b21.jpg",
@@ -23,11 +23,11 @@
     "static/media/gradient_logo.jpg": "/my-portfolio_v1/static/media/gradient_logo.be4d1e56032b71ff7f65.jpg",
     "index.html": "/my-portfolio_v1/index.html",
     "main.dce5c223.css.map": "/my-portfolio_v1/static/css/main.dce5c223.css.map",
-    "main.2cc4ec45.js.map": "/my-portfolio_v1/static/js/main.2cc4ec45.js.map",
+    "main.96c05ddb.js.map": "/my-portfolio_v1/static/js/main.96c05ddb.js.map",
     "787.4b24f717.chunk.js.map": "/my-portfolio_v1/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dce5c223.css",
-    "static/js/main.2cc4ec45.js"
+    "static/js/main.96c05ddb.js"
   ]
 }
