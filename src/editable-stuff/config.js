@@ -233,7 +233,13 @@ const experiences = {
     {
       role: 'Teaching Assistant',
       companylogo: require('../assets/img/UNCC_logo.jpg'),
-      date: 'August 2022 – Present',
+      date: 'January 2023 – Present',
+      description: " ➤ As a Teaching Assistant for Big Data Analytics (ITCS-6100) under Prof. Gabriel Terejanu, I guide and mentor 75 graduate students. ➤ Responsibilities include grading 500+ papers, conducting weekly TA hours for discussions and issue resolution, supporting projects, providing clerical assistance, and maintaining records. ➤ Lead discussion sections, host office hours, facilitate group projects and discussions, and offer assignment feedback. This role hones my leadership, communication, and problem-solving skills while enhancing student engagement and learning outcomes. This experience showcases my dedication to education and teamwork, enriching my profile for career growth. "
+    },
+    {
+      role: 'Teaching Assistant',
+      companylogo: require('../assets/img/UNCC_logo.jpg'),
+      date: 'August 2022 – December 2022',
       description: ' As an IA for the Undergrad Mobile Robotics course, provided comprehensive support to students, including assignment help, grading, and administrative duties. Mentored 43 students, graded over 500 papers, and held 60+ office hours. '
     },
     {
