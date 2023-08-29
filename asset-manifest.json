@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio_v1/static/css/main.dce5c223.css",
-    "main.js": "/my-portfolio_v1/static/js/main.d3f4760f.js",
+    "main.js": "/my-portfolio_v1/static/js/main.02804d90.js",
     "static/js/787.4b24f717.chunk.js": "/my-portfolio_v1/static/js/787.4b24f717.chunk.js",
     "static/media/gradient_meet.png": "/my-portfolio_v1/static/media/gradient_meet.f77c406eaa095b878917.png",
     "static/media/gradient_linkedin_appreciation2.png": "/my-portfolio_v1/static/media/gradient_linkedin_appreciation2.3a6dd78c4442395e8835.png",
@@ -16,18 +16,18 @@
     "static/media/jagat_appreciation.png": "/my-portfolio_v1/static/media/jagat_appreciation.756d6351baec34c9beed.png",
     "static/media/jagat_appreciation_r1.png": "/my-portfolio_v1/static/media/jagat_appreciation_r1.3d9508d499098484f1df.png",
     "static/media/gradient_linkedin_appreciation3.png": "/my-portfolio_v1/static/media/gradient_linkedin_appreciation3.16422207d5312b8d9652.png",
-    "static/media/UNCC_logo.jpg": "/my-portfolio_v1/static/media/UNCC_logo.3e6a9daa80ff5c17b61c.jpg",
+    "static/media/UNCC_logo.jpg": "/my-portfolio_v1/static/media/UNCC_logo.c38073f267ce8d7eb28e.jpg",
     "static/media/noodleai_logo.jpg": "/my-portfolio_v1/static/media/noodleai_logo.af1a1c27465a70e4519d.jpg",
     "static/media/noodleai_logo2.jpg": "/my-portfolio_v1/static/media/noodleai_logo2.7aa7b7cffd279d0d6b21.jpg",
     "static/media/opentext_logo.jpg": "/my-portfolio_v1/static/media/opentext_logo.6b67b764d8719c0bcb23.jpg",
     "static/media/gradient_logo.jpg": "/my-portfolio_v1/static/media/gradient_logo.be4d1e56032b71ff7f65.jpg",
     "index.html": "/my-portfolio_v1/index.html",
     "main.dce5c223.css.map": "/my-portfolio_v1/static/css/main.dce5c223.css.map",
-    "main.d3f4760f.js.map": "/my-portfolio_v1/static/js/main.d3f4760f.js.map",
+    "main.02804d90.js.map": "/my-portfolio_v1/static/js/main.02804d90.js.map",
     "787.4b24f717.chunk.js.map": "/my-portfolio_v1/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dce5c223.css",
-    "static/js/main.d3f4760f.js"
+    "static/js/main.02804d90.js"
   ]
 }
