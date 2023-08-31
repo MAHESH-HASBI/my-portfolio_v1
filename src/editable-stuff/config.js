@@ -40,7 +40,7 @@ const mainBody = {
       url: "https://www.quora.com/profile/Mahesh-Hasbi",
     },
     {
-      image: "cib-leetcode",
+      image: "fa-solid fa-l",
       url: "https://leetcode.com/mahe113vsp/",
     },
     {
@@ -48,7 +48,7 @@ const mainBody = {
       url: "https://www.hackerrank.com/mahe113vsp?hr_r=1",
     },
     {
-      image: "fa-geeksforgeeks",
+      image: "fa-brands fa-gg",
       url: "https://auth.geeksforgeeks.org/user/maheshhasbi/practice/",
     },
   ],
