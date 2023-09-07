@@ -15,10 +15,10 @@ const mainBody = {
       image: "fa-github",
       url: "https://github.com/MAHESH-HASBI",
     },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/mahesh.hasbi/",
-    },
+    // {
+    //   image: "fa-facebook",
+    //   url: "https://www.facebook.com/mahesh.hasbi/",
+    // },
     {
       image: "fa-instagram",
       url: "https://www.instagram.com/maheshhasbi/",
