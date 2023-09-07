@@ -40,7 +40,7 @@ const mainBody = {
       url: "https://www.quora.com/profile/Mahesh-Hasbi",
     },
     {
-      image: "fa-regular fa-code",
+      image: "fa-solid fa-l",
       url: "https://leetcode.com/mahe113vsp/",
     },
     {
