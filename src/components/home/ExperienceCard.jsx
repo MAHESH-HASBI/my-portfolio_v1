@@ -5,6 +5,8 @@ import {
 } from "react-bootstrap";
 
 const ExperienceCard = ({ data }) => {
+  
+  const descriptionPoints = data.description.split('\n');
   return (
     <Col lg="6">
       <div className="pb-5 text-center">
@@ -13,10 +15,11 @@ const ExperienceCard = ({ data }) => {
           {data.role}
           <br />
           {data.date}
-          <br />
-          {data.description}
         </p>
-
+        {/* Map over the description points and create separate <p> elements */}
+        {descriptionPoints.map((point, index) => (
+          <p key={index}>{point}</p>
+        ))}
       </div>
     </Col>
   );
