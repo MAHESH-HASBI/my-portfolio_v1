@@ -12,9 +12,9 @@ const ExperienceCard = ({ data }) => {
       <div className="pb-5 text-center">
         <img className=" bg-white mb-3" src={data.companylogo} alt="" />
         <p className="lead">
-          {data.role}
+          <strong>{data.role}</strong>
           <br />
-          {data.date}
+          <strong>{data.date}</strong>
           <br />
         
         {/* Map over the description points and create separate <p> elements */}
