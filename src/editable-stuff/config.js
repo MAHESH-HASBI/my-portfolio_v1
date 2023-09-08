@@ -221,7 +221,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering, Data Engineering and ML Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I am actively seeking full-time opportunities in the fields of Software Engineering, Data Engineering, Machine Learning Engineering, and DevOps. If you are aware of any relevant job openings, have inquiries, or simply wish to connect, please do not hesitate to reach out to me. Your communication is greatly appreciated, and I look forward to hearing from you. Phone: +1 980-267-2168, Email me at ",
   email: "mahe113vsp@gmail.com",
 };
 
