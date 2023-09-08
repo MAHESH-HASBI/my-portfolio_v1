@@ -15,10 +15,10 @@ const mainBody = {
       image: "fa-github",
       url: "https://github.com/MAHESH-HASBI",
     },
-    // {
-    //   image: "fa-facebook",
-    //   url: "https://www.facebook.com/mahesh.hasbi/",
-    // },
+    {
+      image: "fa-facebook",
+      url: "https://www.facebook.com/mahesh.hasbi/",
+    },
     {
       image: "fa-instagram",
       url: "https://www.instagram.com/maheshhasbi/",
@@ -40,11 +40,7 @@ const mainBody = {
       url: "https://www.quora.com/profile/Mahesh-Hasbi",
     },
     {
-      image: "fa-solid fa-laptop-code",
-      url: "https://leetcode.com/mahe113vsp/",
-    },
-    {
-      image: "fa-brands fa-gg",
+      image: "fa-brands fa-python",
       url: "https://leetcode.com/mahe113vsp/",
     },
     {
