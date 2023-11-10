@@ -110,9 +110,6 @@ const leadership = {
       img: require("../editable-stuff/appreciation_images/srihari_appreciation_r1.png"), 
     },
     { 
-      img: require("../editable-stuff/appreciation_images/farewell_anurag_avinash.png"), 
-    },
-    { 
       img: require("../editable-stuff/appreciation_images/farewell2.png"), 
     },
     { 
