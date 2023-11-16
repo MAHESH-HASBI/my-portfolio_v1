@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/my-portfolio_v1/static/css/main.dce5c223.css",
-    "main.js": "/my-portfolio_v1/static/js/main.40f5b952.js",
+    "main.js": "/my-portfolio_v1/static/js/main.7843351d.js",
     "static/js/787.4b24f717.chunk.js": "/my-portfolio_v1/static/js/787.4b24f717.chunk.js",
     "static/media/gradient_meet.png": "/my-portfolio_v1/static/media/gradient_meet.f77c406eaa095b878917.png",
     "static/media/gradient_linkedin_appreciation2.png": "/my-portfolio_v1/static/media/gradient_linkedin_appreciation2.3a6dd78c4442395e8835.png",
     "static/media/maheshhasbi.jpg": "/my-portfolio_v1/static/media/maheshhasbi.3717c0f6d5e14f52155b.jpg",
     "static/media/farewell2.png": "/my-portfolio_v1/static/media/farewell2.1d568574bf6fbbd3108c.png",
     "static/media/farewell3.png": "/my-portfolio_v1/static/media/farewell3.1cb1d7220b2bd616008e.png",
-    "static/media/srihari_appreciation.png": "/my-portfolio_v1/static/media/srihari_appreciation.1a0cc45dea3cc1e51653.png",
+    "static/media/srihari_appreciation.png": "/my-portfolio_v1/static/media/srihari_appreciation.27fc51b846443df6e709.png",
     "static/media/gradient_linkedin_appreciation.png": "/my-portfolio_v1/static/media/gradient_linkedin_appreciation.eb1ac23057035c4819dc.png",
     "static/media/christian_appreciation.png": "/my-portfolio_v1/static/media/christian_appreciation.e9a9788473c8ad87e289.png",
     "static/media/gradient_linkedin_appreciation3.png": "/my-portfolio_v1/static/media/gradient_linkedin_appreciation3.16422207d5312b8d9652.png",
-    "static/media/srihari_appreciation_r1.png": "/my-portfolio_v1/static/media/srihari_appreciation_r1.2540a420dd5d5ccadc61.png",
-    "static/media/jagat_appreciation_r1.png": "/my-portfolio_v1/static/media/jagat_appreciation_r1.5c8d64f0aa891e65a4ac.png",
+    "static/media/srihari_appreciation_r1.png": "/my-portfolio_v1/static/media/srihari_appreciation_r1.a6c137a7b3cbb2e10129.png",
+    "static/media/jagat_appreciation_r1.png": "/my-portfolio_v1/static/media/jagat_appreciation_r1.247beb26554b3d0dfd39.png",
     "static/media/jagat_appreciation.png": "/my-portfolio_v1/static/media/jagat_appreciation.1b3ddcfeef207f0c3402.png",
     "static/media/UNCC_logo.jpg": "/my-portfolio_v1/static/media/UNCC_logo.c38073f267ce8d7eb28e.jpg",
     "static/media/noodleai_logo.jpg": "/my-portfolio_v1/static/media/noodleai_logo.af1a1c27465a70e4519d.jpg",
@@ -22,11 +22,11 @@
     "static/media/gradient_logo.jpg": "/my-portfolio_v1/static/media/gradient_logo.be4d1e56032b71ff7f65.jpg",
     "index.html": "/my-portfolio_v1/index.html",
     "main.dce5c223.css.map": "/my-portfolio_v1/static/css/main.dce5c223.css.map",
-    "main.40f5b952.js.map": "/my-portfolio_v1/static/js/main.40f5b952.js.map",
+    "main.7843351d.js.map": "/my-portfolio_v1/static/js/main.7843351d.js.map",
     "787.4b24f717.chunk.js.map": "/my-portfolio_v1/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dce5c223.css",
-    "static/js/main.40f5b952.js"
+    "static/js/main.7843351d.js"
   ]
 }
