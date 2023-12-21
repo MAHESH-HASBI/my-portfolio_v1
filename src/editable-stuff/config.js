@@ -75,7 +75,7 @@ const about = {
   imageSize: 375,
   message:
   " I'm Mahesh Hasbi, a passionate graduate student pursuing a Master's in Computer Science at the University of North Carolina at Charlotte. With a keen interest in both software engineering and data engineering, I am driven to excel in these dynamic fields. As a Software Engineering Lead at Gradient, I've successfully guided and mentored a team of interns, fostering growth and collaboration. Through hands-on experience, I've orchestrated the development of cross-platform applications using React Native and Firebase, showcasing my technical prowess. During my tenure at Noodle.ai, I delved into the realm of data engineering. I contributed to ML model versioning using MLFlow, designed Kubeflow data processing pipelines, and streamlined workflows with automation scripts. These experiences equipped me with a robust foundation in data engineering technologies and best practices. Committed to excellence, I ensure coding standards and best practices are upheld through meticulous reviews. My proactive approach to learning and problem-solving enables me to contribute effectively to projects and collaborate seamlessly across teams. With a forward-looking mindset, I am excited to further harness my skills in software and data engineering to create innovative solutions in the ever-evolving tech landscape. ",
-  resume: "https://drive.google.com/file/d/1c2EQx1bu8GoFqPH2Bb9t1AvKfu7pgRlD/view?usp=drive_link",
+  resume: "https://drive.google.com/file/d/1OZk6Xj7hQOuqX1Fjy9cbwEd1vOcA0tz3/view?usp=sharing",
 };
 
 // PROJECTS SECTION
