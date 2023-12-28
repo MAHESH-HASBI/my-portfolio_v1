@@ -253,7 +253,7 @@ const experiences = {
     {
       role: 'Software/ML/DevOps Engineering Intern',
       companylogo: require('../assets/img/noodleai_logo.jpg'),
-      date: 'October 2019 – July 2020',
+      date: 'July 2019 – July 2020',
       description: "➤ During my tenure as a Machine Learning Engineer Intern, I played a key role in integrating and implementing a reliable ML model versioning framework, leveraging MLFlow. The framework provided a seamless approach to visualizing model metrics, optimizing model versioning, streamlining experiment tracking, and enhancing the management and deployment of models.\n➤ Demonstrated proficiency in Software Development Kit (SDK) API development, Jenkins CI/CD pipeline construction, and end-to-end unit testing during my tenure as a software engineering intern.\n➤ Applied best practices in software engineering by refactoring existing code to enhance reusability, minimize complexity, and increase code generality.\n➤ Innovatively incorporated third-party packages into our project by experimenting with their features and functionalities to optimize project outcomes.",
     },
     {
