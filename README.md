@@ -5,10 +5,10 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="https://mahesh-hasbi.github.io/my-portfolio_v1/">mahesh-hasbi.github.io/my-portfolio_v1</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://mahesh-hasbi.github.io/my-portfolio_v1/">About Me</a>
   </p>
 </p>
 
@@ -17,7 +17,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
 [![GitHub issues](https://img.shields.io/github/issues/hashirshoaeb/home?color=ffcc66&style=for-the-badge)](https://github.com/hashirshoaeb/star_book/issues)
 [![GitHub license](https://img.shields.io/github/license/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/home/blob/master/LICENSE)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
+[![Twitter Follow](https://img.shields.io/twitter/follow/maheshhasbi?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/MheshHsbi1)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=v18.13.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=8.11.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
@@ -124,14 +124,14 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
 10. To change the thumbnail image:
 
-    - Navigate to the "public" folder.  
-    - There you will see "social-image.png".  
-    - Delete it.   
-    - Take a screenshot of your version and rename it "social-image.png" and place it there.  
-    
-   Next time if you make changes, repeat from step 8.
+    - Navigate to the "public" folder.
+    - There you will see "social-image.png".
+    - Delete it.
+    - Take a screenshot of your version and rename it "social-image.png" and place it there.
 
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
+Next time if you make changes, repeat from step 8.
+
+Facing issues? Feel free to contact at mahe113vsp@gmail.com.
 
 ## Showcase 🚀
 
@@ -222,7 +222,7 @@ Novas contribuições e revisões na tradução são muito bem vindas!
 
 ## Notice:
 
-This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/hashirshoaeb/portfolio)
+This project has been archived. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version.
 
 ## Stargazers over time
 
