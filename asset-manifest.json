@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio_v1/static/css/main.dce5c223.css",
-    "main.js": "/my-portfolio_v1/static/js/main.4a5a8850.js",
+    "main.js": "/my-portfolio_v1/static/js/main.1e42a1c7.js",
     "static/js/787.4b24f717.chunk.js": "/my-portfolio_v1/static/js/787.4b24f717.chunk.js",
     "static/media/gradient_meet.png": "/my-portfolio_v1/static/media/gradient_meet.f77c406eaa095b878917.png",
     "static/media/gradient_linkedin_appreciation2.png": "/my-portfolio_v1/static/media/gradient_linkedin_appreciation2.3a6dd78c4442395e8835.png",
@@ -22,11 +22,11 @@
     "static/media/gradient_logo.jpg": "/my-portfolio_v1/static/media/gradient_logo.be4d1e56032b71ff7f65.jpg",
     "index.html": "/my-portfolio_v1/index.html",
     "main.dce5c223.css.map": "/my-portfolio_v1/static/css/main.dce5c223.css.map",
-    "main.4a5a8850.js.map": "/my-portfolio_v1/static/js/main.4a5a8850.js.map",
+    "main.1e42a1c7.js.map": "/my-portfolio_v1/static/js/main.1e42a1c7.js.map",
     "787.4b24f717.chunk.js.map": "/my-portfolio_v1/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dce5c223.css",
-    "static/js/main.4a5a8850.js"
+    "static/js/main.1e42a1c7.js"
   ]
 }
